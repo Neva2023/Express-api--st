@@ -1,0 +1,22 @@
+body {
+    background-color: azure;
+}
+
+.greet {
+    background-color: plum;
+    border: 1px solid;
+    margin-bottom: 1em;
+    padding: 1em;
+    width: 22em;
+    border-radius: 0.25em;
+    display: inline-block;
+    padding: 0.5em
+}
+
+.button {
+    background-color: antiquewhite;
+}
+
+input {
+    background-color: antiquewhite;
+}
